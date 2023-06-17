@@ -1,7 +1,6 @@
 # Countor-Detection-OpenCV
 Detect Object through contour detection
-# Number-plate-detection
-capture Number Plate on vehicle
+
 ## OpenCV: Open Source Computer Vision Library
 
 ### Resources
